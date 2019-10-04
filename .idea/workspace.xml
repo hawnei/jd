@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c269480-b3c8-4565-86d2-d83bf26ab1c4" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/+oitem.img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/00b2fb4640027f24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/040d97771298d4d454439b83c73799a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/0db0bb82846d3ad2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1097d992e1e8bce3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/235353cdfb6ebf01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/23f3ddf914b1b527d0429a3d713cfe3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2ff7a1a01305c5081d75f15fa6f9b223.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3d73dc978ab585b3dea58d9128d974c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3fc49c2193e2f681.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/42dceb61a9328d89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/49a222155235419082fb4f1d415690aa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/58004d6dn2927f0f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/58004db6na4b20277.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5933bf62f3f797261d73d1ad39b1e89b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7357bd6f51d5ce60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7870e925de8667d3146305d56e14cc2e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/93ec59f9796c37a0903bfdd45f59f9d5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/97bc1b8b9842ad7d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/af8973273bd95d4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrow_rt_2ccb8cd5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b2932ad360992fe9cbeea264cf451b1f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b8f4cbdf15b337ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bb011f6255104b3ea11cd7a3695896f0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bb4bd4c5c5e4e3b65e8870565c7b21dd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/benefit_belt_aac9c42e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/benefit_tag_07be8396.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cea2f11a9bb155fa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/e14c611022f88d4dd2eba8f8d8464b71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/error-jd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/f429e8401968bce2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/good_belt_d6f6462c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_dlbar_v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jd-sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jd-sprites_c4019063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading-animation_a4ad9705.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/location_ce22d874.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/search-sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprite-photo-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprite_mobile@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprite_mobile@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprites_old_96130e4e_070697a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/toTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/amd_layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/detect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fx_methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gesture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ios3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/js/swiper.esm.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/js/swiper.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/swiper/js/swiper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zepto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/&amp;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/016033c7ef3e0c6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/01e0e818a7505267.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/0228256ec3a86b36.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/0aff0a42cece09ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/0e1519939f544e8d.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/156044483569b0f9.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/175ef56cc02485d5.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/1c590322ece537ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/1dfe65650ae047e5.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/28cda0a571b4a576.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/29d349f92aeb6eaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/3174a20e743edd49.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/3a1735f6a79d0721.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/3c2b78a40edc97b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/46fca2b1054eae2a.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/4792ec307a853e9f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/47b686712510d44e.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/4d19bf58d42fc9c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/591d94ednc42fb94d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/59ae0a38n72bd0a52.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5aa8935bn94e31ff6.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5ad41016n9ad0a198.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5ad87bf0n66c5db7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5ae01befn2494769f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b03b74en3541598d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b03b779n5c0b196f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b03fae3n67f78fe3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b7f9b4enc3153ec9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b7f9b5fnf746c0bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b7f9b7bn3ccd29ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5b87ce90n007c6bab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5cdd0be3nfce1ba98.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5ce20cdcnd9cdd972.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/5fee386254dd2ebc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/63b0920f944f64e1.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/64e76ed6c67568bf.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/65c0cdc1362635fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/6dddf7ef5a4de686.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/6f625b887ba43559.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/7059c952bcfc04de.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/71f1b17d2e0ebaf4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/77cbdd5c15d1b421.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/7fd1b95f39d08559.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/8b0a379b2777a906.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/8f3f63ae04ff19af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/8f5108b2da8c679f.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/90c41bac5ab851de.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/98b1e0fd23075c1f.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/9972678aeda21bd7.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/9c53e25651659d43.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/9de6a6899de01a84.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/9f4cd68276f4e971.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/a4bd2ffce3090264.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/a62d0d8bc8817724.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/ab9e6a677dbcaa16.jpg!cr_1125x445_0_171!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/aba2bcb4855e6e52.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/accaf1c844e86651.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/afb4399323fe3b76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/b61f083872a7a1de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/b6d9befe733d70d2.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/b711e97b4d950059.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/bae8ec0696ee3b8b.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/bfaeb5f0411d47fb.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/caa83ce9b881cd24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/cdbad904f61e1fb7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/d6ab6a0f64fee068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/e1af43a6ea0cb5fa.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/e48679e904c29d30.jpg!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/e6f1e73fd970b661.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/eec779757a34e94d.png!q70.jpg.dpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/eed6f6cbf1de3aaa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/f9d57f39e55c7321.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/jd_pingou_curtain_v2_d596bf4d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1100972226">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="2" />
+          <entry key="js" value="5" />
+          <entry key="less" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Less" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="2344" />
+          <entry key="less" value="2791" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2344" />
+          <entry key="Less" value="2791" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.swiper-pagination-bullet-active</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/lib/swiper/css/swiper.min.css" />
+        <option value="$PROJECT_DIR$/css/index.less" />
+        <option value="$PROJECT_DIR$/js/toTop.js" />
+        <option value="$PROJECT_DIR$/js/countdown.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="640" />
+    <option name="y" value="30" />
+    <option name="width" value="1930" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindow运行.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\charly\Desktop\jd\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c269480-b3c8-4565-86d2-d83bf26ab1c4" name="默认的" comment="" />
+      <created>1570004450748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570004450748</updated>
+      <workItem from="1570004452034" duration="4991000" />
+      <workItem from="1570009477142" duration="7759000" />
+      <workItem from="1570018641999" duration="7669000" />
+      <workItem from="1570073276434" duration="4302000" />
+      <workItem from="1570082333936" duration="3946000" />
+      <workItem from="1570089165874" duration="7926000" />
+      <workItem from="1570107775595" duration="11208000" />
+      <workItem from="1570167327915" duration="6052000" />
+      <workItem from="1570173409710" duration="1215000" />
+      <workItem from="1570174728213" duration="910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55978000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="-3" width="1542" height="830" extended-state="6" />
+    <layout>
+      <window_info anchor="top" x="31" y="755" width="414" height="55" id="运行" order="0" type="FLOATING" weight="0.40757576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.109643325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="找到" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.03079179" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.039589442" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/Ⅰ、前端开发基础/JavaScript+jQuery/jQuery开发/jQuery作业/上机9/1号店购物车/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="117" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gesture.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/toTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="188" column="23" lean-forward="true" selection-start-line="188" selection-start-column="23" selection-end-line="188" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/swiper/css/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="11299" selection-start-line="11" selection-start-column="11299" selection-end-line="11" selection-end-column="11299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
