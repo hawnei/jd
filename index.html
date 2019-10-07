@@ -194,6 +194,26 @@
                             <p>¥179</p>
                             <p>¥199</p>
                         </li>
+                        <li>
+                            <img src="images/6616934c72327e24.png.webp" alt="">
+                            <p>¥189</p>
+                            <p>¥305.9</p>
+                        </li>
+                        <li>
+                            <img src="images/5881bc9cN1020e10e.jpg.dpg" alt="">
+                            <p>¥27</p>
+                            <p>¥29</p>
+                        </li>
+                        <li>
+                            <img src="images/46bfb8e220095da2.png.webp" alt="">
+                            <p>¥99</p>
+                            <p>¥109</p>
+                        </li>
+                        <li>
+                            <img src="images/258f6b23acbe6d9a.jpg.dpg" alt="">
+                            <p>¥179</p>
+                            <p>¥199</p>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -365,85 +385,67 @@
     <!--<script src="js/common.js"></script>-->
     <!-- 轮播图js -->
     <script src="lib/swiper/js/swiper.js"></script>
-    <script>
-        var swiperAll = document.querySelectorAll(".swiper-container")
-        var mySwiper = new Swiper (swiperAll[0], {
-            // direction: 'vertical', // 垂直切换选项
-            loop: true, // 循环模式选项
 
-            // 是否自动播放
-            autoplay:{
-                stopOnLastSlide:true
-            },
-            // 如果需要分页器
-            pagination: {
-                el: '.swiper-pagination',
-            },
-
-            // 如果需要前进后退按钮
-            // navigation: {
-            //     nextEl: '.swiper-button-next',
-            //     prevEl: '.swiper-button-prev',
-            // },
-
-            // 如果需要滚动条
-            // scrollbar: {
-            //     el: '.swiper-scrollbar',
-            // },
-        })
-        var mySwiper = new Swiper (swiperAll[1], {
-            // direction: 'vertical', // 垂直切换选项
-            // loop: true, // 循环模式选项
-
-            // 是否自动播放
-            // autoplay:{
-            //     stopOnLastSlide:true
-            // },
-            // 如果需要分页器
-            pagination: {
-                el: '.swiper-pagination',
-            },
-
-            // 如果需要前进后退按钮
-            // navigation: {
-            //     nextEl: '.swiper-button-next',
-            //     prevEl: '.swiper-button-prev',
-            // },
-
-            // 如果需要滚动条
-            // scrollbar: {
-            //     el: '.swiper-scrollbar',
-            // },
-        })
-        var mySwiper = new Swiper (swiperAll[2], {
-            direction: 'vertical', // 垂直切换选项
-            loop: true, // 循环模式选项
-
-            // 是否自动播放
-            autoplay:{
-                stopOnLastSlide:true
-            },
-            // 如果需要分页器
-            // pagination: {
-            //     el: '.swiper-pagination',
-            // },
-
-            // 如果需要前进后退按钮
-            // navigation: {
-            //     nextEl: '.swiper-button-next',
-            //     prevEl: '.swiper-button-prev',
-            // },
-
-            // 如果需要滚动条
-            // scrollbar: {
-            //     el: '.swiper-scrollbar',
-            // },
-        })
-    </script>
-    <!-- 返回顶部 -->
     <script src="lib/zepto.js"></script>
-    <script src="js/toTop.js"></script>
     <!-- 倒计时 -->
     <script src="js/countdown.js"></script>
+    <script>
+        //轮播图js
+        var swiperAll = document.querySelectorAll(".swiper-container")
+        var mySwiper0 = new Swiper (swiperAll[0], {
+            // direction: 'vertical', // 垂直切换选项
+            loop: true, // 循环模式选项
+            // 是否自动播放
+            autoplay:{
+                stopOnLastSlide:true
+            },
+            // 如果需要分页器
+            pagination: {
+                el: '.swiper-pagination',
+            }
+        });
+        var mySwiper1 = new Swiper (swiperAll[1], {
+            pagination: {
+                el: '.swiper-pagination',
+            },
+        });
+        var mySwiper2 = new Swiper (swiperAll[2], {
+            direction: 'vertical', // 垂直切换选项
+            loop: true, // 循环模式选项
+            // 是否自动播放
+            autoplay:{
+                stopOnLastSlide:true
+            },
+        });
+        //秒杀区域
+        (function () {
+           // $('.seckill ul').width($('.seckill li').length*100+'%')
+        })();
+        //to top
+        window.addEventListener('scroll', function () {
+            //可视区高
+            var docH = Math.max(document.documentElement.clientHeight, document.body.clientHeight);
+            var he=$(window).scrollTop();
+            if(he>docH){
+                $(".top").show()
+            }
+            else if(he==0){
+                $(".top").hide()
+            }
+        });
+        $(".top").on("click",function () {
+            var  times = setInterval(function () {
+                var  toTop = document.documentElement.scrollTop ||document.body.scrollTop
+                toTop = toTop/1.2
+                if (toTop > 0.01){
+                    document.documentElement.scrollTop ? document.documentElement.scrollTop = toTop : document.body.scrollTop = toTop
+                    return true
+                }else {
+                    clearInterval(times)
+                }
+            },10)
+        })
+    </script>
+
 </body>
 </html>

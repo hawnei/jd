@@ -55,26 +55,29 @@ body{
               border-radius: 1.5rem;
               outline: none;
               box-sizing: border-box;
-              padding-left: 5rem;
+              padding-left: 6rem;
             }
           }
         }
         .jd{
+          display: flex;
+          position: absolute;
+          align-items: center;
+          left: 3.55rem;
+          top: 0;
+          i{
+            display: block;
+          }
           i:nth-of-type(1) {
             height: 2.6rem;
             width: 3.2rem;
             background: url(../images/jd-sprites_c4019063.png) 4px 3px no-repeat;
-            /* background-size: 10%; */
             transform: scale(.5);
-            position: absolute;
-            left: 2.5rem;
-            top: 0.1rem;
           }
           span {
+            display: block;
             font-size: 1rem;
-            position: absolute;
-            left: 5rem;
-            top: .6rem;
+            height: 1.8rem;
             color: #ccc;
           }
           i:nth-of-type(2) {
@@ -83,9 +86,6 @@ body{
             background: url(../images/jd-sprites_c4019063.png) -158px 3px no-repeat;
             /* background-size: 10%; */
             transform: scale(0.6);
-            position: absolute;
-            left: 4.8rem;
-            top: 0.1rem;
           }
           }
         }
@@ -228,13 +228,12 @@ body{
             }
           }
           ul{
+            overflow: hidden;
             width: 100%;
             height: 7rem;
             display: flex;
             padding: 0;
             margin: 0;
-            display: flex;
-            //justify-content: space-around
             li{
               flex: 1;
               list-style: none;
@@ -558,7 +557,7 @@ body{
         right: 2rem;
         bottom: 4rem;
         z-index: 9;
-        //display: none;
+        display: none;
       }
     }
     // 底部
